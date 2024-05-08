@@ -7,7 +7,7 @@
 
 项目主页：
 
-![image-20240508084510513](https://github.com/ueke616/XiaoXinMarket/tree/master/img/image-20240508084510513.png)
+![image-20240508084510513](https://github.com/ueke616/XiaoXinMarket/tree/master/image-20240508084510513.png)
 
 项目后台：
 
