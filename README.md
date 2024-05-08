@@ -3,7 +3,7 @@
 
 项目简单架构：
 
-![image-20240508085627500]([.\img](https://github.com/ueke616/XiaoXinMarket/tree/master/img/image-20240508085627500.png)
+![image-20240508085627500](https://github.com/ueke616/XiaoXinMarket/tree/master/img/image-20240508085627500.png)
 
 项目主页：
 
